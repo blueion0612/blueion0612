@@ -46,10 +46,6 @@ Wearable Robotics  ·  Exoskeletons  ·  IMU Systems  ·  Embedded Development
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=blueion0612&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=888888&hide_title=true&hide_rank=true"/>
-
-<br/><br/>
-
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00FF00)](https://github.com/blueion0612)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
 
