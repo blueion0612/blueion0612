@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&lines=%3E+SYSTEM+ONLINE" alt="System Online" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=44FF44&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;IMU+%26+Sensor+Specialist;Full-Stack+Developer;Building+the+Future" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=44FF44&center=true&vCenter=true&width=700&lines=Wearable+Robotics+Engineer;Exoskeleton+Developer;IMU+%26+Sensor+Specialist;Building+the+Future" alt="Typing SVG" />
 
 <br/>
 
@@ -36,10 +36,13 @@ const blueion = {
     location: "South Korea",
 
     currentFocus: [
+        "Wearable Robotics",
+        "Exoskeletons",
         "IMU-based Gesture Recognition",
-        "Embedded Systems",
-        "Full-Stack Development"
+        "Embedded Systems"
     ],
+
+    interests: ["Wearable Robotics", "Exoskeletons", "Human-Machine Interface"],
 
     philosophy: "Technology should feel like magic."
 };
@@ -125,20 +128,6 @@ const blueion = {
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "I am Iron Man." - Tony Stark                                  ║
-║                                                                  ║
-║   The future belongs to those who build it.                      ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=blueion0612&style=for-the-badge&color=00FF00&label=VISITORS)
 
 </div>
