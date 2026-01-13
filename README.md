@@ -47,6 +47,6 @@ Wearable Robotics  ·  Exoskeletons  ·  IMU Systems  ·  Embedded Development
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00FF00)](https://github.com/blueion0612)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00FF00)](mailto:yuhyunkorea@gmail.com)
 
 </div>
