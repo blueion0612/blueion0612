@@ -40,11 +40,12 @@ Integrated M.S./Ph.D. Student, Mechanical Engineering<br/>
 | Mar 2026 – Present | **Korea University** | Integrated M.S./Ph.D., Mechanical Engineering<br/><sub>MINT Lab (Movement Intelligence Lab) · Advisor: Prof. Daekyum Kim</sub> |
 | Mar 2020 – Feb 2026 | **Myongji University** | B.S., Information and Communication Engineering |
 
-<!-- PUBLICATIONS — uncomment and fill in when the first paper is out:
 ## Publications
 
-1. **Yuhyeon Lee**, Co-Author, and Co-Author. "Paper title." *Venue*, Year. [[paper]](URL) [[code]](URL)
--->
+1. **PrintExo: An Open-Source, Shoe-Agnostic, 3D-Printable Ankle Exoskeleton for Accessible Locomotion Research**<br/>
+   Sunin Baek\*, **Yuhyeon Lee**\*, Benjamin Hur, Eun Sang Cha, Daekyum Kim &nbsp;<sub>\* co-first authors</sub><br/>
+   *IEEE RAS/EMBS BioRob — in revision* · [Project Page](https://printexo.github.io/)
+   <!-- add when published: · [Paper](URL) -->
 
 <!-- AWARDS & EXPERIENCE — uncomment and fill in when ready:
 ## Awards &amp; Experience
