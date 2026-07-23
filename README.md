@@ -27,10 +27,10 @@ Integrated M.S./Ph.D. Student, Mechanical Engineering<br/>
 
 ## About
 
-- **Now** — robot control built on foundation-scale AI models: high-capability intelligence for real machines
-- **Next** — complete exoskeleton systems: mechanism, actuation, and control designed as one
-- **Lab** — [MINT Lab (Movement Intelligence Lab)](https://mintlab.korea.ac.kr) · Wearable &amp; Healthcare group · Advisor: Prof. Daekyum Kim
-- **Path** — B.S. in Information &amp; Communication Engineering, Myongji Univ. → Integrated M.S./Ph.D. in Mechanical Engineering, Korea Univ.
+- **Now** — robot control built on foundation-scale AI models
+- **Next** — complete exoskeleton systems: mechanism, actuation, control
+- **Lab** — [MINT Lab (Movement Intelligence Lab)](https://mintlab.korea.ac.kr), Korea University · Advisor: Prof. Daekyum Kim
+- **Path** — B.S., Myongji University → Integrated M.S./Ph.D., Korea University
 
 ## Publications
 
