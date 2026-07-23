@@ -4,6 +4,8 @@
 
 **Wearable Robotics &amp; Exoskeleton Engineer**
 
+*The mind and the metal of wearable robots.*
+
 Integrated M.S./Ph.D. Student, Mechanical Engineering<br/>
 [MINT Lab (Movement Intelligence Lab)](https://mintlab.korea.ac.kr) · Korea University
 
@@ -27,11 +29,12 @@ Integrated M.S./Ph.D. Student, Mechanical Engineering<br/>
 
 ## About
 
-- **Position** — Integrated M.S./Ph.D. student, Mechanical Engineering, Korea University
+> *A wearable robot needs a mind that understands movement and a body worth trusting.<br/>I'm building both — in that order.*
+
+- **Now** — robot control built on foundation-scale AI models: high-capability intelligence for real machines
+- **Next** — complete exoskeleton systems: mechanism, actuation, and control designed as one
 - **Lab** — [MINT Lab (Movement Intelligence Lab)](https://mintlab.korea.ac.kr) · Wearable &amp; Healthcare group · Advisor: Prof. Daekyum Kim
-- **Focus** — robot control built on foundation-scale, high-capability AI models
-- **Next** — transitioning toward complete exoskeleton systems, from mechanical design to control
-- **Background** — B.S. in Information &amp; Communication Engineering, Myongji University
+- **Path** — B.S. in Information &amp; Communication Engineering, Myongji Univ. → Integrated M.S./Ph.D. in Mechanical Engineering, Korea Univ.
 
 ## Publications
 
