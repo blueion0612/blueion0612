@@ -20,9 +20,10 @@ Integrated M.S./Ph.D. Student, Mechanical Engineering<br/>
 
 ## About
 
-I am an Integrated M.S./Ph.D. student in Mechanical Engineering at Korea University, researching wearable robotics at [MINT Lab](https://mintlab.korea.ac.kr) (Movement Intelligence Lab) under Prof. Daekyum Kim, as part of the lab's Wearable &amp; Healthcare group. My work focuses on how body-worn sensing — inertial and physiological — can help wearable robots, exoskeletons in particular, understand and assist human movement.
-
-Before joining Korea University, I received my B.S. in Information and Communication Engineering from Myongji University, where I built IMU sensing systems end to end: WearOS/Android streaming apps, real-time UDP pipelines, and deep-learning models that turn raw wrist motion into commands.
+- **Position** — Integrated M.S./Ph.D. student, Mechanical Engineering, Korea University
+- **Lab** — [MINT Lab (Movement Intelligence Lab)](https://mintlab.korea.ac.kr) · Wearable &amp; Healthcare group · Advisor: Prof. Daekyum Kim
+- **Focus** — body-worn sensing (inertial + physiological) for wearable robots and exoskeletons that understand and assist human movement
+- **Background** — B.S. in Information &amp; Communication Engineering, Myongji University · IMU systems built end to end: WearOS/Android streaming → real-time UDP pipelines → deep-learning motion recognition
 
 ## Research Interests
 
@@ -55,17 +56,25 @@ Before joining Korea University, I received my B.S. in Information and Communica
 #### [IVO — IMU-Vision Overlay](https://github.com/blueion0612/IVO)
 
 `Electron` `Python` `Computer Vision`
-<br/>Gesture-controlled presentation overlay that combines smartwatch IMU gesture recognition (15 gestures) with webcam hand tracking — hands-free slide control, on-screen drawing, and real-time handwriting OCR. <sub>Myongji University capstone project, 2025</sub>
+
+- Hands-free presentation control — 15 smartwatch IMU gestures + webcam hand tracking
+- On-screen drawing with real-time handwriting OCR
+- Myongji University capstone project, 2025
 
 #### [IMU Gesture Classifier](https://github.com/blueion0612/IMU_Gesture_Classifier)
 
 `Python` `PyTorch`
-<br/>Two-stage deep learning pipeline for real-time gesture recognition from smartwatch IMU streams (50 Hz over UDP): a binary entry detector gates a 15-class classifier, separating *when* a gesture happens from *which* gesture it is.
+
+- Two-stage pipeline — binary entry detector gates a 15-class gesture classifier
+- Real-time smartwatch IMU streams, 50 Hz over UDP
+- Separates *when* a gesture happens from *which* gesture it is
 
 #### [PPG Fist Classifier](https://github.com/blueion0612/PPG_Classifier)
 
 `Python` `Machine Learning`
-<br/>Real-time hand-state (open vs. fist) detection from 16-channel smartwatch PPG signals at 25 Hz, evaluated with leave-one-session-out cross-validation — F1 0.73 after 20 s of user calibration, AUC 0.94 user-dependent.
+
+- Hand-state detection (open vs. fist) from 16-channel smartwatch PPG at 25 Hz
+- Leave-one-session-out evaluation — F1 0.73 with 20 s calibration · AUC 0.94 user-dependent
 
 ## All Projects
 
