@@ -22,15 +22,16 @@ Integrated M.S./Ph.D. Student, Mechanical Engineering<br/>
 
 - **Position** — Integrated M.S./Ph.D. student, Mechanical Engineering, Korea University
 - **Lab** — [MINT Lab (Movement Intelligence Lab)](https://mintlab.korea.ac.kr) · Wearable &amp; Healthcare group · Advisor: Prof. Daekyum Kim
-- **Focus** — body-worn sensing (inertial + physiological) for wearable robots and exoskeletons that understand and assist human movement
+- **Focus** — robot control built on foundation-scale, high-capability AI models
+- **Next** — transitioning toward complete exoskeleton systems, from mechanical design to control
 - **Background** — B.S. in Information &amp; Communication Engineering, Myongji University · IMU systems built end to end: WearOS/Android streaming → real-time UDP pipelines → deep-learning motion recognition
 
 ## Research Interests
 
-- **Wearable Robotics &amp; Exoskeletons** — sensing and assistance for devices that move with the human body
-- **IMU-Based Motion Intelligence** — gesture recognition, motion tracking, and sensor fusion on body-worn devices
-- **Physiological Signal Learning** — PPG-based hand-state and intent detection for human–machine interfaces
-- **Real-Time Sensing Pipelines** — from wearable sensor streams to on-device deep-learning inference
+- **Foundation Models for Robot Control** — foundation-scale AI models as the intelligence layer of robot control &nbsp;<sub>`current`</sub>
+- **Exoskeleton Design &amp; Control** — complete assistive exoskeletons, from mechanical design to control &nbsp;<sub>`next`</sub>
+- **Wearable Sensing &amp; Motion Intelligence** — IMU and physiological sensing that reads human movement and intent
+- **Real-Time Sensing-to-Action Pipelines** — from body-worn sensor streams to on-device inference and robot action
 
 ## Education
 
