@@ -13,8 +13,12 @@ Integrated M.S./Ph.D. Student, Mechanical Engineering<br/>
 
 <sub>Full portfolio — research, projects, publications</sub>
 
-<!-- FUTURE LINKS — when ready, add a centered ` · `-separated row here:
-[**LinkedIn**](https://www.linkedin.com/in/USERNAME) · [**Google Scholar**](https://scholar.google.com/citations?user=USER_ID) · [**ORCID**](https://orcid.org/0000-0000-0000-0000)
+<br/>
+
+[**ORCID&nbsp;&nbsp;0009-0001-9354-6445**](https://orcid.org/0009-0001-9354-6445)
+
+<!-- FUTURE LINKS — when ready, extend the row above, ` · `-separated:
+[**LinkedIn**](https://www.linkedin.com/in/USERNAME) · [**Google Scholar**](https://scholar.google.com/citations?user=USER_ID) ·
 -->
 
 </div>
