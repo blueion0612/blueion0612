@@ -15,10 +15,10 @@ Integrated M.S./Ph.D. Student, Mechanical Engineering<br/>
 
 <br/>
 
-[**ORCID&nbsp;&nbsp;0009-0001-9354-6445**](https://orcid.org/0009-0001-9354-6445)
+[**ORCID&nbsp;&nbsp;0009-0001-9354-6445**](https://orcid.org/0009-0001-9354-6445) · [**LinkedIn**](https://www.linkedin.com/in/yuhyeon-lee-67a9853a5)
 
 <!-- FUTURE LINKS — when ready, extend the row above, ` · `-separated:
-[**LinkedIn**](https://www.linkedin.com/in/USERNAME) · [**Google Scholar**](https://scholar.google.com/citations?user=USER_ID) ·
+[**Google Scholar**](https://scholar.google.com/citations?user=USER_ID) ·
 -->
 
 </div>
