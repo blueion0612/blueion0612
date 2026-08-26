@@ -34,7 +34,7 @@ Integrated M.S./Ph.D. Student, Mechanical Engineering<br/>
 
 2. **Quantitative Ergonomic Assessment of Endoscopists Using Wearable Inertial Measurement Units and Optical Motion Capture**<br/>
    Sang Hyun Kim\*, Sunin Baek\*, Benjamin Hur, Younghoon Bae, **Yuhyeon Lee**, Hyuk Soon Choi†, Daekyum Kim† &nbsp;<sub>\* co-first · † co-corresponding</sub><br/>
-   *The American Journal of Gastroenterology — submitted*
+   *Manuscript in preparation*
    <!-- add when published: · [Paper](URL) -->
 
 <br/>
