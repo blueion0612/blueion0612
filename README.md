@@ -11,7 +11,7 @@ Integrated M.S./Ph.D. Student, Mechanical Engineering<br/>
 
 ### [→ &nbsp;**blueion0612.github.io**](https://blueion0612.github.io)
 
-<sub>Full portfolio — research, projects, publications</sub>
+<sub>Full portfolio &middot; research, projects, publications</sub>
 
 <br/>
 
@@ -29,7 +29,7 @@ Integrated M.S./Ph.D. Student, Mechanical Engineering<br/>
 
 1. **PrintExo: An Open-Source, Shoe-Agnostic, 3D-Printable Ankle Exoskeleton for Accessible Locomotion Research**<br/>
    Sunin Baek\*, **Yuhyeon Lee**\*, Benjamin Hur, Eun Sang Cha, Daekyum Kim &nbsp;<sub>\* co-first authors</sub><br/>
-   *IEEE RAS/EMBS BioRob — in revision* · [Project Page](https://printexo.github.io/)
+   *IEEE RAS/EMBS BioRob, in revision* · [Project Page](https://printexo.github.io/)
    <!-- add when published: · [Paper](URL) -->
 
 2. **Quantitative Ergonomic Assessment of Endoscopists Using Wearable Inertial Measurement Units and Optical Motion Capture**<br/>
