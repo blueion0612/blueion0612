@@ -17,7 +17,7 @@ Integrated M.S./Ph.D. Student, Mechanical Engineering<br/>
 
 [**ORCID&nbsp;&nbsp;0009-0001-9354-6445**](https://orcid.org/0009-0001-9354-6445) · [**LinkedIn**](https://www.linkedin.com/in/yuhyeon-lee-67a9853a5) · [**Instagram**](https://www.instagram.com/yuhyeonkorea/)
 
-<!-- FUTURE LINKS — when ready, extend the row above, ` · `-separated:
+<!-- FUTURE LINKS: when ready, extend the row above, ` · `-separated:
 [**Google Scholar**](https://scholar.google.com/citations?user=USER_ID) ·
 -->
 
