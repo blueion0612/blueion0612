@@ -27,10 +27,9 @@ Integrated M.S./Ph.D. Student, Mechanical Engineering<br/>
 
 ## Publications
 
-1. **PrintExo: An Open-Source, Shoe-Agnostic, 3D-Printable Ankle Exoskeleton for Accessible Locomotion Research**<br/>
-   Sunin Baek\*, **Yuhyeon Lee**\*, Benjamin Hur, Eun Sang Cha, Daekyum Kim &nbsp;<sub>\* co-first authors</sub><br/>
-   *IEEE RAS/EMBS BioRob, in revision* · [Project Page](https://printexo.github.io/)
-   <!-- add when published: · [Paper](URL) -->
+1. **PrintExo: An Open-Source, Shoe-Agnostic, 3D-Printable Ankle Exoskeleton Platform for Accessible Locomotion Research**<br/>
+   Sunin Baek\*, **Yuhyeon Lee**\*, Benjamin Hur, Eun Sang Cha, Daekyum Kim† &nbsp;<sub>\* co-first · † corresponding</sub><br/>
+   *IEEE RAS/EMBS BioRob 2026* · pp.&nbsp;891–&#8288;897 · [Paper](https://doi.org/10.1109/BioRob66782.2026.11681576) · [Project Page](https://printexo.github.io/)
 
 2. **Quantitative Ergonomic Assessment of Endoscopists Using Wearable Inertial Measurement Units and Optical Motion Capture**<br/>
    Sang Hyun Kim\*, Sunin Baek\*, Benjamin Hur, Younghoon Bae, **Yuhyeon Lee**, Hyuk Soon Choi†, Daekyum Kim† &nbsp;<sub>\* co-first · † co-corresponding</sub><br/>
